@@ -1,0 +1,16 @@
+audit-api==0.0.0
+certifi==2023.7.22
+charset-normalizer==3.2.0
+circleci-audit==1.0.1
+CMD-3.0==0.0.1
+idna==3.4
+ipaddress==1.0.23
+pass-audit==1.2
+python-dateutil==2.8.2
+requests==2.31.0
+six==1.16.0
+swagger2==0.0.6
+ukmdb-audit==0.0.2
+urllib3==2.0.4
+xmlrpc2==0.3.1
+zxcvbn==4.4.28

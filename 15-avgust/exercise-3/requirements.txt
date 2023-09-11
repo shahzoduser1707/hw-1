@@ -1,0 +1,16 @@
+asgiref==3.7.2
+backports.zoneinfo==0.2.1
+certifi==2023.7.22
+charset-normalizer==3.2.0
+Django==4.2.4
+fastcore==1.5.28
+idna==3.4
+packaging==23.1
+pydoc-quarto==0.0.12
+requests==2.31.0
+sqlparse==0.4.4
+swagger2==0.0.6
+typing-extensions==4.7.1
+tzdata==2023.3
+Url91==0.0.1
+urllib3==2.0.4

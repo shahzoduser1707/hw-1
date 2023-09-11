@@ -1,0 +1,17 @@
+asgiref==3.7.2
+audit-pkg==1.5.5
+backports.zoneinfo==0.2.1
+click==8.1.6
+click-log==0.4.0
+click-plugins==1.1.1
+colorama==0.4.6
+dj-audit==0.1.4
+Django==4.2.4
+pluggy==1.2.0
+psycopg2-binary==2.9.7
+sqlparse==0.4.4
+tenacity==8.2.3
+typing-extensions==4.7.1
+tzdata==2023.3
+vdk-audit==0.1.962401336
+vdk-core==0.3.966911950

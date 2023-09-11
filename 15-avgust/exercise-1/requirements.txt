@@ -1,0 +1,11 @@
+certifi==2023.7.22
+charset-normalizer==3.2.0
+CMD-3.0==0.0.1
+idna==3.4
+ipaddress==1.0.23
+python-dateutil==2.8.2
+requests==2.31.0
+six==1.16.0
+swagger2==0.0.6
+urllib3==2.0.4
+xmlrpc2==0.3.1
